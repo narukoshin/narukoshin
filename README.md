@@ -7,3 +7,8 @@
 </div>
 
 <img src="https://i.pinimg.com/1200x/b6/32/3c/b6323c3c8e2b5e528abde95d6a46f38d.jpg">
+<div align="center">
+  <img src="https://media.tenor.com/OtmGW7s3znAAAAAi/miku-hatsune-miku.gif">
+  <img src="https://media1.tenor.com/m/6JXQ2gWBO-kAAAAC/daidaidaidaidaikirai-kasane-teto.gif" width=300>
+  <img src="https://media1.tenor.com/m/QlY6nVfDkNEAAAAd/who-is-number-one-sigma.gif">
+</div>
