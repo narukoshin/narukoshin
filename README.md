@@ -68,7 +68,7 @@ status: "building the next thing before finishing the previous thing"
 ## `03 // NOW PLAYING`
 
 <p align="center">
-    <img src="./assets/player.png" width="40%">
+    <img src="./assets/player.png" width="70%">
 </p>
 
 <p align="center">
