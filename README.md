@@ -82,12 +82,12 @@ status: "building the next thing before finishing the previous thing"
 ## `04 // GITHUB, BUT MAKE IT PINK`
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narukoshin&amp;theme=radical" width="100%" alt="Naru K's GitHub profile details">
+  <img src="https://raw.githubusercontent.com/narukoshin/narukoshin/main/profile-summary-card-output/radical/0-profile-details.svg" width="100%" alt="Naru K's GitHub profile details">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=narukoshin&amp;theme=radical" width="49%" alt="Repositories per language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=narukoshin&amp;theme=radical" width="49%" alt="Most-used commit languages">
+  <img src="https://raw.githubusercontent.com/narukoshin/narukoshin/main/profile-summary-card-output/radical/3-stats.svg" width="49%" alt="General stats">
+  <img src="https://raw.githubusercontent.com/narukoshin/narukoshin/main/profile-summary-card-output/radical/4-productive-time.svg" width="49%" alt="Most-used commit languages">
 </p>
 
 <details>
