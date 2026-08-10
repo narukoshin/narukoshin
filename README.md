@@ -65,10 +65,10 @@ status: "building the next thing before finishing the previous thing"
   <code>MIKU // melody</code>　·　<code>TETO // chaos</code>　·　<code>NERU // voltage</code>
 </p>
 
-## `03 // NOW PLAYING`
+## `03 // NOW PLAYING 0/1 Song of the month`
 
 <p align="center">
-    <img src="./assets/player.png" width="70%">
+    <img src="./assets/player.svg" width="70%">
 </p>
 
 <p align="center">
