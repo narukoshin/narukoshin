@@ -68,7 +68,7 @@ status: "building the next thing before finishing the previous thing"
 ## `03 // NOW PLAYING 0/1 Song of the month`
 
 <p align="center">
-    <img src="./assets/player.svg" width="70%">
+    <img src="./assets/player.svg" width="100%">
 </p>
 
 <p align="center">
